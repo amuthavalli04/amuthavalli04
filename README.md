@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @amuthavalli04
-- 👀 I’m interested in Image processing in Python and Verilog
 - 🌱 I’m currently pursuing Electronics and Communication Engineering
 - 💞️ I’m looking to collaborate on any project related to image processing
 - 📫 How to reach me
